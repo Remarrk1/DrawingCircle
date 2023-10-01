@@ -1,8 +1,7 @@
 # Лабораторная №1 по дисциплине компьютерная графика
 
-[![Build, Test](https://github.com/Remarrk1/DrawingCircle/tree/main/.github/workflows/app.yml/badge.svg)]
-(https://github.com/Remarrk1/DrawingCircle/tree/main/.github/workflows/app.yml)
-[![Version](https://img.shields.io/badge/Version-0.1.1-blue.svg)](https://github.com/Remarrk1/Build-Shape
+[![Build, Test](https://github.com/Remarrk1/DrawingCircle/actions/workflows/app.yml/badge.svg)](https://github.com/Remarrk1/DrawingCircle/actions/workflows/app.yml)
+[![Version](https://img.shields.io/badge/Version-0.1.1-blue.svg)](https://github.com/Remarrk1/DrawingCircle)
 [![License: MIT ](https://img.shields.io/badge/License-MIT-violet.svg)](https://opensource.org/licenses/MIT)
 
 Лабораторная заключается в пошаговом построение геометрических изображений.
